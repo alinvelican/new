@@ -11,7 +11,7 @@ class Lista {
 public:
 	struct Nod {
 
-		T valuee;
+		T value;
 		Nod * Next;
 
 
